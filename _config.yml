@@ -1,2 +1,4 @@
 name: The Red House
 markdown: kramdown
+gems:
+  - jekyll-sitemap
